@@ -2,5 +2,5 @@
 <p>Python-Learn é um repositório voltado para os estudos e tarefas realizadas com o <br> livro "Use a Cabeça Python", com conceitos e programas aprendidos e criados ao longo do do meu aprendizado.</p>
 
 <h1>Módulos</h1>
-- /01_Jogo_Cartas
+- /01_Jogo_Cartas <br>
 - /02_Coach_Natacao
